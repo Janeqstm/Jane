@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammad Moniruzzaman | Real Estate Agent</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #007BFF;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: white;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background: #007BFF;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Mohammad Moniruzzaman</h1>
+    <p>Your Trusted Real Estate Agent</p>
+</header>
+
+<nav>
+    <a href="#about">About Me</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+    <a href="#blog">Blog</a>
+</nav>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>Welcome! I'm Mohammad Moniruzzaman, a dedicated real estate agent specializing in helping clients find their dream properties. With a passion for real estate and a commitment to excellence, I strive to make the buying and selling process as smooth as possible.</p>
+</section>
+
+<section id="projects">
+    <h2>Projects</h2>
+    <p>Check out my recent projects in the real estate market:</p>
+    <ul>
+        <li>Luxury Apartments in Dubai</li>
+        <li>Villas in Turkey</li>
+        <li>Residential Developments in Europe</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>If you're looking to buy or sell a property, feel free to reach out!</p>
+    <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+    <p>Phone: +1234567890</p>
+</section>
+
+<section id="blog">
+    <h2>Blog</h2>
+    <p>Stay tuned for my latest articles on real estate trends, tips for buyers and sellers, and market insights.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Mohammad Moniruzzaman. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
